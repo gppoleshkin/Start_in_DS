@@ -1,7 +1,7 @@
 Анализ зарплат по трем секторам экономики в России, 2000-2023
 
 Главное:
-Start_in_DS.ipynb - блокнот
+Start_in_DS.ipynb - актуальный блокнот
 stds.xlsx - датасет
 
 Допонительное:
@@ -28,7 +28,7 @@ https://gogov.ru/articles/vvp-rf
 ![image](https://github.com/gppoleshkin/Start_in_DS/assets/150899409/68ab2db1-8a68-44bf-a7f3-86d9a4ec1151)
 ![image](https://github.com/gppoleshkin/Start_in_DS/assets/150899409/ad093c08-6b65-4d76-b46b-fa8fd5726eed)
 ![image](https://github.com/gppoleshkin/Start_in_DS/assets/150899409/94554459-2790-45cc-803e-c5ed0d3b2c21)
-![image](https://github.com/gppoleshkin/Start_in_DS/assets/150899409/c83d9ca1-35d9-42d8-b661-7dc8541e1928)
+![image](https://github.com/gppoleshkin/Start_in_DS/assets/150899409/d76f1438-4b33-423c-bdac-0300d90fb347)
 ![image](https://github.com/gppoleshkin/Start_in_DS/assets/150899409/4978e256-3435-474c-8d7d-22a6f77f0feb)
 
 
