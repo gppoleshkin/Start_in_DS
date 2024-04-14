@@ -20,6 +20,12 @@ https://gogov.ru/articles/vvp-rf
 
 ![image](https://github.com/gppoleshkin/Start_in_DS/assets/150899409/1168da89-e462-4683-9f23-52b6e89874a3)
 ![image](https://github.com/gppoleshkin/Start_in_DS/assets/150899409/51696a3c-7d81-4eef-96eb-78634c9e5fd4)
+![image](https://github.com/gppoleshkin/Start_in_DS/assets/150899409/ee51a069-74f3-403c-ad71-8472802f8d2b)
+![image](https://github.com/gppoleshkin/Start_in_DS/assets/150899409/dcef0410-1f5f-4041-92f7-dc684eb6cf48)
+![image](https://github.com/gppoleshkin/Start_in_DS/assets/150899409/485ea356-7c58-448f-b21c-81c283eeb506)
+![image](https://github.com/gppoleshkin/Start_in_DS/assets/150899409/c272b10a-24c8-440d-905a-1e1325906526)
+
+
 
 
 
